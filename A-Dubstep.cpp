@@ -34,3 +34,4 @@ int main()
         result.pop_back();
     cout<<result<<endl;
 }
+
